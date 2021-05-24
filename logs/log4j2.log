@@ -1,0 +1,314 @@
+2021-05-25 00:01:36,444 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:02:11,107 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:02:17,806 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:02:22,600 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:09:38,584 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:11:07,704 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:11:57,841 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:13:09,842 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:14:12,665 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:15:58,304 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:16:02,649 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:49476
+2021-05-25 00:16:02,676 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:49476
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-25 00:17:03,071 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:18:52,355 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:18:56,481 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:54334
+2021-05-25 00:18:56,506 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:54334
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-25 00:19:12,587 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:54334
+2021-05-25 00:19:12,597 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:54334
+[
+Вы успешно вошли в систему
+]
+2021-05-25 00:19:14,599 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:54334
+2021-05-25 00:19:14,607 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:54334
+[
+key: 12992
+id №12
+Name: ASOAOOA
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon May 24 16:27:00 ALMT 2021
+Health: 1.0
+Heart Count: 2
+Height: 2.0
+Category: DREADNOUGHT
+Chapter: Name: 12
+	     World: 
+
+
+key: 19292
+id №10
+Name: Asas
+Coordinates: X: 1.0
+			 Y: 1.0
+creationDate: Mon May 24 16:23:00 ALMT 2021
+Health: 2.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: 2
+	     World: 1
+
+
+
+]
+2021-05-25 00:19:16,603 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:54334
+2021-05-25 00:19:16,604 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:54334
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-25 00:19:31,373 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:54341
+2021-05-25 00:19:31,376 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:54341
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-25 00:19:42,446 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:54341
+2021-05-25 00:19:42,448 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:54341
+[
+you are successfully logged in
+]
+2021-05-25 00:19:46,494 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:54341
+2021-05-25 00:19:46,495 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:54341
+[
+print_field_descending_heart_count: print the values of the heartCount field of all elements in descending order.
+remove_greater {element}: remove all items from the collection that exceed the specified value.
+show: output to the standard output stream all elements of the collection in the string representation.
+clear: clear collection.
+save: save collection to file.
+replace_if_lowe null {element}: replace the value by key if the new value is less than the old one.
+update id {element}: update the value of a collection element whose id is equal to the specified one.
+remove_key null: remove an item from the collection by its key.
+help: display help for available commands.
+exit: end the program (without saving to a file).
+remove_lower_key null: remove from the collection all items whose key is less than the specified one.
+execute_script file_name: read and execute the script from the specified file. The script contains commands in the same form as the user enters them interactively..
+average_of_height: output the average value of the height field for all items in the collection.
+group_counting_by_category: group collection items by the value of the category field, output the number of items in each group.
+info: output information about the collection (type, initialization date, number of items, etc.) to the standard output stream.).
+insert null {element}: add a new element with the specified key.
+
+]
+2021-05-25 00:20:09,235 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:20:16,917 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61212
+2021-05-25 00:20:16,943 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61212
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-25 00:23:16,118 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:23:20,816 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59300
+2021-05-25 00:23:20,843 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59300
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-25 00:23:27,859 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59300
+2021-05-25 00:23:27,868 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59300
+[
+Вы успешно вошли в систему
+]
+2021-05-25 00:23:29,866 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59300
+2021-05-25 00:23:29,867 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59300
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-25 00:23:36,924 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:59300
+2021-05-25 00:23:36,933 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:59300
+[
+Информация о коллекции:
+Тип коллекции: java.util.TreeMap
+Количество элементов в коллекции: 2
+Дата последней инициализации: Tue May 25 00:23:20 ALMT 2021
+Дата последнего сохранения: Сохранения еще не было.
+]
+2021-05-25 00:42:06,574 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:42:17,133 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:50023
+2021-05-25 00:43:09,918 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:43:24,382 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:52012
+2021-05-25 00:47:28,330 INFO s.DataBase [main] Подключение к базе данных успешно установлено!
+2021-05-25 00:47:32,981 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61733
+2021-05-25 00:47:33,006 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61733
+[
+Коллекция успешно загружена! 
+Введите help для отображения списка доступных команд
+]
+2021-05-25 00:47:44,057 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61733
+2021-05-25 00:47:44,067 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61733
+[
+Вы успешно вошли в систему
+]
+2021-05-25 00:47:49,101 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61733
+2021-05-25 00:47:49,102 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61733
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-25 00:47:51,127 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61733
+2021-05-25 00:47:51,135 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61733
+[
+Информация о коллекции:
+Тип коллекции: java.util.TreeMap
+Количество элементов в коллекции: 2
+Дата последней инициализации: Tue May 25 00:47:33 ALMT 2021
+Дата последнего сохранения: Сохранения еще не было.
+]
+2021-05-25 00:47:53,144 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61733
+2021-05-25 00:47:53,148 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61733
+[
+key: 12992
+id №12
+Name: ASOAOOA
+Coordinates: X: 1.0
+			 Y: 2.0
+creationDate: Mon May 24 16:27:00 ALMT 2021
+Health: 1.0
+Heart Count: 2
+Height: 2.0
+Category: DREADNOUGHT
+Chapter: Name: 12
+	     World: 
+
+
+key: 19292
+id №10
+Name: Asas
+Coordinates: X: 1.0
+			 Y: 1.0
+creationDate: Mon May 24 16:23:00 ALMT 2021
+Health: 2.0
+Heart Count: 1
+Height: 2.0
+Category: SCOUT
+Chapter: Name: 2
+	     World: 1
+
+
+
+]
+2021-05-25 00:48:08,126 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61748
+2021-05-25 00:48:08,129 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61748
+[
+Collection loaded successfully! Added 
+Type help to display a list of available commands
+]
+2021-05-25 00:48:16,179 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61748
+2021-05-25 00:48:16,181 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61748
+[
+you are successfully logged in
+]
+2021-05-25 00:48:19,207 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61748
+2021-05-25 00:48:19,208 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61748
+[
+print_field_descending_heart_count: print the values of the heartCount field of all elements in descending order.
+remove_greater {element}: remove all items from the collection that exceed the specified value.
+show: output to the standard output stream all elements of the collection in the string representation.
+clear: clear collection.
+save: save collection to file.
+replace_if_lowe null {element}: replace the value by key if the new value is less than the old one.
+update id {element}: update the value of a collection element whose id is equal to the specified one.
+remove_key null: remove an item from the collection by its key.
+help: display help for available commands.
+exit: end the program (without saving to a file).
+remove_lower_key null: remove from the collection all items whose key is less than the specified one.
+execute_script file_name: read and execute the script from the specified file. The script contains commands in the same form as the user enters them interactively..
+average_of_height: output the average value of the height field for all items in the collection.
+group_counting_by_category: group collection items by the value of the category field, output the number of items in each group.
+info: output information about the collection (type, initialization date, number of items, etc.) to the standard output stream.).
+insert null {element}: add a new element with the specified key.
+
+]
+2021-05-25 00:48:21,253 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61748
+2021-05-25 00:48:21,253 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61748
+[
+Collection information:
+Collection type:java.util.TreeMap
+The number of items in the collection: 2
+Last initialization date: Tue May 25 00:48:08 ALMT 2021
+Last save date: There was no save yet.
+]
+2021-05-25 00:48:27,608 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61733
+2021-05-25 00:48:27,609 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61733
+[
+print_field_descending_heart_count: вывести значения поля heartCount всех элементов в порядке убывания.
+remove_greater {element}: удалить из коллекции все элементы, превышающие заданный.
+show: вывести в стандартный поток вывода все элементы коллекции в строковом представлении.
+clear: очистить коллекцию.
+save: сохранить коллекцию в файл.
+replace_if_lowe null {element}: заменить значение по ключу, если новое значение меньше старого.
+update id {element}: обновить значение элемента коллекции, id которого равен заданному.
+remove_key null: удалить элемент из коллекции по его ключу.
+help: вывести справку по доступным командам.
+exit: завершить программу (без сохранения в файл).
+remove_lower_key null: удалить из коллекции все элементы, ключ которых меньше, чем заданный.
+execute_script file_name:  считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме..
+average_of_height: вывести среднее значение поля height для всех элементов коллекции.
+group_counting_by_category: сгруппировать элементы коллекции по значению поля category, вывести количество элементов в каждой группе.
+info: вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.).
+insert null {element}: добавить новый элемент с заданным ключом.
+
+]
+2021-05-25 00:48:29,665 INFO s.ServerReceiver [ForkJoinPool-2-worker-3] Получен запрос от /127.0.0.1:61733
+2021-05-25 00:48:29,666 INFO s.ServerSender [ForkJoinPool-1-worker-3] Отправка ответа клиенту /127.0.0.1:61733
+[
+Информация о коллекции:
+Тип коллекции: java.util.TreeMap
+Количество элементов в коллекции: 2
+Дата последней инициализации: Tue May 25 00:48:08 ALMT 2021
+Дата последнего сохранения: Сохранения еще не было.
+]
