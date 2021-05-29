@@ -54,8 +54,7 @@ public class Server {
             ServerReceiver serverReceiver = new ServerReceiver(socket, serverSender, languageManager, this);
             serverReadInterface.setCollectionManager(collectionManager);
 
-            serverReceiver.abstractServerReceiver.setDaemon(true);
-            serverReceiver.abstractServerReceiver.start();
+            serverReceiver.abstractServerReceiver.run();
             serverReadInterface.read();
 
 

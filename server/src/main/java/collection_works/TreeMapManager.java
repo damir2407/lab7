@@ -260,7 +260,7 @@ public class TreeMapManager implements CollectionManager {
 
     @Override
     public void updateCollection() {
-        marinesCollection = dataBase.getInformation();
+        this.marinesCollection = dataBase.getInformation();
     }
 
     @Override
